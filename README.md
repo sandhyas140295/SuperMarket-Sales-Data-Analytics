@@ -39,4 +39,7 @@ The data was taken from an Excel file containing supermarket sales transactions 
 - **Product Line Slicer**: Enables filtering by product category
 
 # Repository structure
+Dashboard Image :![Dashboard image](https://github.com/user-attachments/assets/90a837ea-98d3-45e6-910b-9c05a5d5f41b)
+
+
 
